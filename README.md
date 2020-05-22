@@ -5,7 +5,7 @@
      
 ## 项目配置
 1.更新config.php文件中的配置参数。  
-具体数值值请登录[E应用列表](https://open-dev.dingtalk.com/#/appList)，从您需要调试的企业内应用的配置详情中获取.
+获取各参数请登录[开发者后台](https://open-dev.dingtalk.com/#/appList)，从您需要调试的企业内部应用的详情中获取。
 
 ## 项目运行
 1. /login.php  获取用户登录信息
